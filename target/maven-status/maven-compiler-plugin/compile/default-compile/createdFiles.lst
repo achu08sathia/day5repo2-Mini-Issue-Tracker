@@ -1,0 +1,4 @@
+com\day5proj2\dao\IssueDao.class
+com\day5proj2\models\Issue.class
+com\day5proj2\util\DBUtil.class
+com\day5proj2\App.class
